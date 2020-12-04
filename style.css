@@ -32,6 +32,7 @@ a {
 }
 
 #details div {
+  align-items: center;
   display: block;
   float: left;
 }
