@@ -16,7 +16,7 @@ body {
 }
 
 figcaption {
-  text-align: right;
+  text-align: center;
   font-size: 10px;
 }
 
@@ -28,7 +28,7 @@ header a {
 
 #featured-property p {
   width: 800px;
-  text-align: center;
+  text-align: right;
 }
 
 #details div {
