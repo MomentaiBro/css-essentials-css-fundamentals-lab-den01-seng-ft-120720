@@ -15,6 +15,11 @@ body {
   width: 50%;
 }
 
+figcaption {
+  text-align: center;
+  font-size: 10px;
+}
+
 a {
   padding-left: 10px;
   padding-right: 10px;
